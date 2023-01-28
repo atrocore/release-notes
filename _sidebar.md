@@ -1,11 +1,4 @@
-# AtroCore Release Notes
-
-- [AtroCore Help Center](https://help.atrocore.com) - read the Guides, How to's and FAQs concerning AtroCore Software Platform.
-
-> Some notes
-
-## Table of Contents
-
+- [Home](/)
 - [AtroCore](/atrocore/)
 - [AtroPIM](/atropim/)
 - [AtroDAM](/atrodam/)
@@ -34,8 +27,3 @@
 - [Tasks](/tasks/)
 - [Translations](/translations/)
 - [Workflows](/workflows/)
-
-
-
-**This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)**.
-
