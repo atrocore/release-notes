@@ -1,8 +1,0 @@
-- [pdf-generator](../pdf-generator/)
-- [export-feeds](../export-feeds/)
-- [atropm](../atropm/)
-- [atropim](../atropim/)
-- [atrodam](../atrodam/)
-- [atrocore](../atrocore/)
-- [advanced-data-types](../advanced-data-types/)
-- [.git](../.git/)
